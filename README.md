@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Palak Chandak, a final-year Electronics and Telecommunication Engineering student. I enjoy programming, web development, and working on innovative projects. In my free time, I love exploring new technologies and learning about electronics.
+Hi! I'm Palak Chandak. I enjoy programming, web development, and working on innovative projects. In my free time, I love exploring new technologies and learning about electronics.
 
 
 ## 🌐 Socials:
